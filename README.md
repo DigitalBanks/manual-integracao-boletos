@@ -11,7 +11,7 @@ Atualmente a Digital Banks está disponibilizando 3 tipos de integração de bol
 * [Emissão em lotes por JSON](https://github.com/DigitalBanks/manual-integracao-boletos/blob/master/JSON.md)
 * Emissão em lotes por API
 
-Conforme cada um dos tipos for homologado, iremos acrescentar informações aqui no wiki deste repositório do `Github` para facilitar o uso e consulta dos desenvolvedores.
+Conforme cada um dos tipos for homologado, iremos acrescentar informações aqui neste repositório do `Github` para facilitar o uso e consulta dos desenvolvedores.
 
 Este repositório irá armazenar algumas demonstrações e arquivos exemplos para utilizar durante sua homologação.
 
