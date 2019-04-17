@@ -43,7 +43,11 @@ A Digital Banks preza pela comunidade, vem participando de diversos projetos Ope
 Apenas solicitamos aos desenvolvedores que sigam o seguinte padrão de pastas, na hora de enviar seu `pull request`:
 
 ```shell
-python  >  emissao_boleto_csv.py
-php     >  emissao_boleto_csv.php
+python   >  emissao_boleto_csv.py
+php      >  emissao_boleto_csv.php
+exemplos >  ...
+CSV.md
+FIELDS.md
+JSON.md
 README.md
 ```
