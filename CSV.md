@@ -1,5 +1,5 @@
 # Integração por envio de CSV
-O envio de arquivo do tipo CSV se dá por meio de acesso interno na conta do cliente. O arquivo de boletos emitidos deverá ser enviado de acordo com o padrão apresentado no arquivo modelo `modelo_csv_boleto.csv` na pasta de `exemplos` neste repositório.
+O envio de arquivo do tipo CSV se dá por meio de acesso interno na conta do cliente. O arquivo de boletos emitidos deverá ser enviado de acordo com o padrão apresentado no arquivo modelo `modelo_csv_boleto.csv` na pasta de `exemplos` neste repositório, você pode acessar [clicando aqui](https://github.com/DigitalBanks/manual-integracao-boletos/tree/master/exemplos).
 
 Os campos são **TODOS OBRIGATÓRIOS** e abaixo você tem mais informações sobre cada campo disponível.
 
@@ -29,7 +29,7 @@ O arquivo `CSV` deverá conter obrigatoriamente campo `REGISTROS`, pois antes de
 Se todos os registros forem válidos e as informações válidas, o sistema iniciará o procedimento de emissão dos boletos junto a instituição financeira.
 
 ## Download do retorno
-Após o processamento do arquivo, o sistema irá permitir o download de um novo arquivo, também na conta do cliente, de um arquivo `CSV` com as informações do boleto. Você pode baixar o arquivo exemplo com nome `modelo_csv_boleto_retorno.csv` na pasta de `exemplos` neste repositório.
+Após o processamento do arquivo, o sistema irá permitir o download de um novo arquivo, também na conta do cliente, de um arquivo `CSV` com as informações do boleto. Você pode baixar o arquivo exemplo com nome `modelo_csv_boleto_retorno.csv` na pasta de `exemplos` neste repositório, você pode acessar [clicando aqui](https://github.com/DigitalBanks/manual-integracao-boletos/tree/master/exemplos).
 
 Exemplo de arquivo:
 ```csv
