@@ -1,3 +1,4 @@
+![Logo Digital Banks](https://i.imgur.com/0eHP030.jpg?raw=true)
 # Integração por envio de CSV
 O envio de arquivo do tipo CSV se dá por meio de acesso interno na conta do cliente. O arquivo de boletos emitidos deverá ser enviado de acordo com o padrão apresentado no arquivo modelo `modelo_csv_boleto.csv` na pasta de `exemplos` neste repositório, você pode acessar [clicando aqui](https://github.com/DigitalBanks/manual-integracao-boletos/tree/master/exemplos).
 
