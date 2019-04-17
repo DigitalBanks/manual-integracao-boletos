@@ -1,0 +1,11 @@
+{
+  "registros": 1,
+  "boletos": {
+    "versao": 1,
+    "cpfCnpj": "000.000.000-00",
+    "banco": "BANCO DO BRASIL",
+    "linhaDigitavel": "000000000000000000000000000000000000000",
+    "seuId": "ABC000000000123",
+    "urlImpressao": "https://server.nomedainstituicao.com/api/exemplo/emissao/boleto?code=473927439s9d8dddaf"
+  }
+}

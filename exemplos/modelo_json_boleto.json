@@ -1,0 +1,18 @@
+{
+  "registros": 1,
+  "boletos": [
+    {
+      "versao": 1,
+      "sacador": "JOSE ALFREDO",
+      "cpfCnpj": "000.000.000-00",
+      "nomeRua": "R EXEMPLO DE RUA",
+      "bairro":  "BAIRRO EXEMPLO",
+      "cep": "00000-000",
+      "cidade": "ITAJAI",
+      "estado": "SC",
+      "vencimento": "2019-10-01",
+      "valor": 19.80,
+      "seuId": "ABC000000000123"
+    }
+  ]
+}
