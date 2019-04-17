@@ -8,7 +8,7 @@ Atualmente existem dezenas de formas de emitir um boleto, dezenas de serviços, 
 Atualmente a Digital Banks está disponibilizando 3 tipos de integração de boletos, ambos em fase de homologação junto aos clientes, são elas:
 
 * [Emissão em lotes por CSV](https://github.com/DigitalBanks/manual-integracao-boletos/blob/master/CSV.md)
-* Emissão em lotes por JSON
+* [Emissão em lotes por JSON](https://github.com/DigitalBanks/manual-integracao-boletos/blob/master/JSON.md)
 * Emissão em lotes por API
 
 Conforme cada um dos tipos for homologado, iremos acrescentar informações aqui no wiki deste repositório do `Github` para facilitar o uso e consulta dos desenvolvedores.
