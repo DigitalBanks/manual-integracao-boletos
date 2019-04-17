@@ -1,4 +1,4 @@
-![Logo Digital Banks](https://i.imgur.com/0eHP030.jpg?raw=true)
+![Logo Digital Banks](https://i.imgur.com/LI7isN8.png?raw=true)
 # Manual de Integração de Boletos
 As integrações de boleto da Digital Banks visam facilitar e padronizar a emissão de boletos e outros tipos de integrações com sistemas de terceiros.
 
