@@ -1,2 +1,2 @@
-VERSAO;CPF_CNPJ;BANCO;LINHA_DIGITAVEL;SEU_ID;URL_IMPRESSAO;
+versao;cpfCnpj;banco;linhaDigitavel;seuId;urlImpressao;
 1;000.000.000-00;BANCO DO BRASIL;000000000000000000000000000000000000000;ABC000000000123;https://server.nomedainstituicao.com/api/exemplo/emissao/boleto?code=473927439s9d8dddaf;
