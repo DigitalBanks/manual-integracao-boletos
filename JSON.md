@@ -52,4 +52,20 @@ Exemplo de arquivo:
 }
 ```
 
+Exemplo de arquivo contendo registro com erro:
+```json
+{
+  "registros": 1,
+  "boletos": {
+    "versao": 1,
+    "cpfCnpj": "000.000.000-00",
+    "banco": "",
+    "linhaDigitavel": "",
+    "seuId": "ABC000000000123",
+    "urlImpressao": "",
+    "erro": true
+  }
+}
+```
+
 [Mais detalhes dos campos você pode acessar clicando aqui](https://github.com/DigitalBanks/manual-integracao-boletos/blob/master/FIELDS.md)
