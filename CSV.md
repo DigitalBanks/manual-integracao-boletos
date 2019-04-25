@@ -22,8 +22,14 @@ Após o processamento do arquivo, o sistema irá permitir o download de um novo 
 
 Exemplo de arquivo:
 ```csv
-versao;cpfCnpj;banco;linhaDigitavel;seuId;urlImpressao;
-1;000.000.000-00;BANCO DO BRASIL;000000000000000000000000000000000000000;ABC000000000123;https://server.nomedainstituicao.com/api/exemplo/emissao/boleto?code=473927439s9d8dddaf;
+versao;cpfCnpj;banco;linhaDigitavel;seuId;urlImpressao;erro;
+1;000.000.000-00;BANCO DO BRASIL;000000000000000000000000000000000000000;ABC000000000123;https://server.nomedainstituicao.com/api/exemplo/emissao/boleto?code=473927439s9d8dddaf;;
+```
+
+Exemplo de arquivo contendo registro com erro
+```csv
+versao;cpfCnpj;banco;linhaDigitavel;seuId;urlImpressao;erro;
+1;000.000.000-00;;;ABC000000000123;;true;
 ```
 
 [Mais detalhes dos campos você pode acessar clicando aqui](https://github.com/DigitalBanks/manual-integracao-boletos/blob/master/FIELDS.md)
